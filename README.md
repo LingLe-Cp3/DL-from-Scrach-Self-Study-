@@ -1,2 +1,2 @@
-# DL-from-Scrach-Self-Study-
+# DL-from-Scratch-Self-Study
 Yasuhiko Saito
