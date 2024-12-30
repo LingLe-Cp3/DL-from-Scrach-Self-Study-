@@ -2,6 +2,6 @@
 Yasuhiko Saito
 It's for self-studying on Yasuhiko Saito's book.
 
-# Summary
+## Summary
 
-# Chapter 1: Intro to Python
+### Chapter 1: Intro to Python
