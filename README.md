@@ -8,5 +8,5 @@ It's for self-studying on Yasuhiko Saito's book.
 
 * Basic Python3 syntax
 * Intro to two libraries: NumPy & matplotlib
-  * NumPy: Element-wise operations, i.e., +,-,*,/,**; Broadcast: operations between arrays and scalar
+  * NumPy: Element-wise operations, i.e., +,-,*,/,**; Broadcast: operations between different shapes(vector,matrix,tensor) of array
   * Matplotlib: Data Visualization & Graph
