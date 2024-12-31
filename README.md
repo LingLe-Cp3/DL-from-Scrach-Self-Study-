@@ -5,3 +5,5 @@ It's for self-studying on Yasuhiko Saito's book.
 ## Summary
 
 ### Chapter 1: Intro to Python
+
+* Basic Python3 syntax
