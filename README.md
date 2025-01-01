@@ -22,4 +22,4 @@ It's for self-studying on Yasuhiko Saito's book.
 
 ### Chapter 3: Neural Network
 
-* Activation function will convert ($$\vec{x}$$,w,b)
+* Activation function will convert ($\vec{x}$,w,b)
