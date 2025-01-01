@@ -22,4 +22,5 @@ It's for self-studying on Yasuhiko Saito's book.
 
 ### Chapter 3: Neural Network
 
-* Activation function will convert $(\vec{x}, \vec{w}, \vec{b})$
+* Activation function will convert $(\vec{x}, \vec{w}, \vec{b})$ ![Vector](https://latex.codecogs.com/png.image?\vec{x})
+
