@@ -23,6 +23,6 @@ It's for self-studying on Yasuhiko Saito's book.
 ### Chapter 3: Neural Network
 
 * The activation function is a bridge between Perceptron and Neural Network. A single perceptron is a one-layer network using a step function as an activation function; a Multi-layer perceptron is a neural network using a sigmoid function, a ReLU function, and other smooth functions as an activation function.
- * Sigmoid function
- * ReLu function
+  * Sigmoid function
+  * ReLu function
 
